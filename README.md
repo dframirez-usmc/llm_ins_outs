@@ -1,1 +1,1 @@
-![image]("KaggleX Speaker Workshop cover.png")
+![image](KaggleX_Speaker_Workshop_cover.png)
